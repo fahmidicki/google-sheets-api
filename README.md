@@ -11,3 +11,5 @@ lalu pilih application data
 lanjut Are you planning to use this API with Compute Engine, Kubernetes Engine, App Engine, or Cloud Functions? pilih no, i'm not using them
 selanjutnya step 2 Service account details, isi nama service account name, isi bebas, sesuai nama aplikasi aja
 pilih role, untuk edit bisa update data bukan cuma baca, pilih basic lalu editor
+save
+nanti ada beberapa tab diatas menu service account, pilih tab keys lalu download json, akan ada file json yang bisa disimpan di folder project
